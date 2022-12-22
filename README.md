@@ -7,3 +7,6 @@ How to program PLC with CX-Programmer
 
 ## Details
 ![I/OTables](IO-Tables.PNG)
+![P1](P1.jpg)
+![D1](D1.jpg)
+![A1](A1.jpg)
