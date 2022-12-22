@@ -10,3 +10,6 @@ How to program PLC with CX-Programmer
 ![P1](P1.jpg)
 ![D1](D1.jpg)
 ![A1](A1.jpg)
+
+## Another PLC Project
+[PLC Omron Filling Of Bottles](https://github.com/electricianinsomniac/PLC-Omron-Filling-of-bottles-Automation)
