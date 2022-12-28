@@ -31,4 +31,4 @@ Indicator pompa OFF : Q-2;
 ![A1](A1.jpg)
 
 ## Another PLC Project
-[PLC Omron Filling Of Bottles](https://github.com/electricianinsomniac/PLC-Omron-Filling-of-bottles-Automation)
+Video: [PLC Omron Filling Of Bottles](https://github.com/electricianinsomniac/PLC-Omron-Filling-of-bottles-Automation)
