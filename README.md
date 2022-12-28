@@ -15,12 +15,12 @@ Video: [Explanation about project PLC](https://youtu.be/Ltjh9YDgiBw)
 
 ## Details
 The Input and output of this project 
-# Input
+- Input
 tombol : ON = I-0;
 tombol : OFF = I-1;
 Sensor low level : I-2;
 Sensor High Level : I-3;
-# Output:
+- Output:
 Pompa : Q-0;
 Indicator pompa ON : Q-1;
 Indicator pompa OFF : Q-2;
